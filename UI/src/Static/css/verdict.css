@@ -1,0 +1,101 @@
+.main-verdict-verdict{
+    gap: 50px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100%;
+    align-items: center;
+    background-color: lightgray;
+}
+.gray{
+    color: lightgray;
+}
+.ft-16{
+    text-transform: capitalize;
+    margin-top: 10px;
+    font-size: 16px;
+    word-break: break-all;
+    white-space: pre-wrap;
+    padding: 5px;
+}
+.Ai-response{
+    padding: 10px;
+    width: 80%;
+    min-height: 40%;
+    background-color: white;
+}
+.Submission-verdict-verdict{
+    margin-top: 40px;
+    width: 80%;
+    height: fit-content;
+    padding: 20px;
+    background-color: white;
+    min-height: 40%;
+    flex-direction: column;
+    display: flex;
+}
+.verdict-table-verdict{
+    display: table;
+    max-width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+
+}
+.cell-table-verdict{
+    display: table-cell;
+
+}
+.table-row-verdict{
+    display: table-row;
+    height: fit-content;
+
+}
+.cc{
+    text-transform: capitalize;
+}
+.break-newline{
+    max-width: 100px;
+    height: fit-content;
+    overflow-wrap: break-word;
+}
+.cell-verdict{
+    font-size: 14px;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+    display: table-cell;
+    text-align: start;
+    border: 1px solid black;
+}
+.test_case-verdict{
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.circle-verdict{
+    padding: 1px;
+    width: 24px;
+    height: 24px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+.green{color:#0a0;}
+.red{color:#00a;}
+.bold{
+    font-weight: bold;
+    font-size: 18px;
+}
+.test_cases-verdict{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+    flex-wrap: wrap;
+    word-break: break-all;
+}

@@ -1,0 +1,120 @@
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.exe
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.deps.json
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.runtimeconfig.json
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.pdb
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.AssemblyInfoInputs.cache
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.AssemblyInfo.cs
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.csproj.CoreCompileInputs.cache
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\refint\JudgeSystem.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.pdb
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.genruntimeconfig.cache
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\ref\JudgeSystem.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.csproj.AssemblyReference.cache
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.sourcelink.json
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSys.3E6C6A19.Up2Date
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\AWSSDK.Core.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\DnsClient.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\SharpCompress.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Snappier.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\ZstdSharp.dll
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+F:\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.exe
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.deps.json
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.runtimeconfig.json
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.pdb
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\DnsClient.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\SharpCompress.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Snappier.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\ZstdSharp.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.csproj.AssemblyReference.cache
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.AssemblyInfoInputs.cache
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.AssemblyInfo.cs
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.csproj.CoreCompileInputs.cache
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.sourcelink.json
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSys.3E6C6A19.Up2Date
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\refint\JudgeSystem.dll
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.pdb
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.genruntimeconfig.cache
+C:\vil\grauduation_project2\LoginNexBackend\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\ref\JudgeSystem.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.exe
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.deps.json
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.runtimeconfig.json
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\JudgeSystem.pdb
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\AWSSDK.Core.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\DnsClient.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\SharpCompress.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\Snappier.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\ZstdSharp.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.csproj.AssemblyReference.cache
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.AssemblyInfoInputs.cache
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.AssemblyInfo.cs
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.csproj.CoreCompileInputs.cache
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSys.3E6C6A19.Up2Date
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\refint\JudgeSystem.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.pdb
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.genruntimeconfig.cache
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\ref\JudgeSystem.dll
+F:\gp2 (3)\gp2\LogicNexBackend\JudgeSystem\obj\Debug\net8.0\JudgeSystem.sourcelink.json

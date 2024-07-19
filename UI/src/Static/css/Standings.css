@@ -1,0 +1,65 @@
+
+.content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 0px;
+    overflow: auto;
+}
+.red{
+    background-color: red;
+}
+.submission_block{
+    background-color: rgb(45, 227, 45);
+    gap: 5px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 2px 5px;
+    white-space: nowrap;
+}
+.score{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 20px;
+}
+.table_wrapper{
+    width: 100%;
+}
+.table_standing thead tr{
+    border-bottom: 5px solid black;
+    border-spacing: 2px;
+    width: 100%;
+}
+.table_standing tr{
+    border-bottom: 1px solid black;
+    border-spacing: 2px;
+    width: 100%;
+}
+.table_standing th{
+    border-right: 1px solid lightgray;
+    padding: 10px;
+    height: fit-content;
+    min-width: 100px;
+}
+.table_standing td{
+    border-right: 1px solid lightgray;
+    padding: 5px;
+    min-width: 100px;
+}
+.problem_tag{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 12px;
+    text-align: center;
+}
+.table_standing th:nth-child(2){
+    min-width: 800px;
+    width:100%;
+}
+.table_standing{
+    border-collapse: collapse;
+}

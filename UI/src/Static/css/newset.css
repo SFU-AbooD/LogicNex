@@ -1,0 +1,142 @@
+.set-navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    background-color: #fff;
+}
+a{
+    text-decoration: none;
+    
+}
+.sorting-site-section{
+    display: flex;
+    flex-direction: column;
+}
+.problem-title-set{
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+}
+.solve-go-to{
+    border: 1px solid black;
+    background-color:transparent;
+    color:#121418;
+    padding: 8px 12px;
+    border-color: #9091a8;
+    border-radius: 0.5rem;
+    word-spacing: 0.1px;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.problem-title-color{
+    color: green;
+    font-size: 12px;
+    
+}
+.problem-card-set{
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 0.75rem;
+    border: 1px solid black;
+    border-color: #c1c2d6;
+}
+.left-card-side{
+    flex-direction: column;
+    flex:1;
+    display: flex;
+    gap: 5px;
+}
+.item-sort{
+    align-items: center;
+    gap: 5px;
+    display: flex;
+}
+.filter-group-new{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e7eeef;
+}
+.checkbox-item{
+    width: 14px;
+    height: 14px;
+    border: 1px solid black;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.checkbox-item:hover{
+    cursor: pointer;
+}
+.filter-group-new:not(:first-child){
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0px;
+}
+.group-label{
+    font-size: inherit;
+    margin-bottom: 10px;
+}
+.group-label-text{
+    color: #4a4b53;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.bold{
+    font-weight: bold;
+    font-size: 24px;
+}
+.problem-set-problems{
+    gap: 0.5rem;
+    padding: 20px;
+    width:55%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.main-container-problem_set{
+    background-color: #f7f8fd;
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 5px;
+}
+.full-color{
+    width: 100%;
+    height: 100%;
+    background-color: #f7f8fd;
+}
+.sorting-site-section{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.row-flex-item{
+    display: flex;
+}
+.current-page{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    width: 70%;
+}
+.current-page{
+    margin-top: 1rem;
+}
+.flex-columns{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+}

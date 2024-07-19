@@ -1,0 +1,30 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    align-items: center;
+}
+.login input{
+    line-height: 20px;
+    border-radius: 2px;
+    width: calc(100%);
+    border: 1px solid lightgray;
+}
+.left-side-login-new{
+    height: 100%;
+    object-fit: cover;
+}
+.loginBtn{
+    padding: 5px 20px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+}
+.login-new{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    margin-top: 40px;
+    align-items: center;
+}

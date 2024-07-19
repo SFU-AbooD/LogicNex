@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+UI/node_modules
+UI/.pnp
+UI/.pnp.js
+
+# testing
+UI/coverage
+
+# production
+UI/build
+
+# misc
+UI/.DS_Store
+UI/.env.local
+UI/.env.development.local
+UI/.env.test.local
+UI/.env.production.local
+
+UI/npm-debug.log*
+LogicNexBackend/.vs/LogicNexBackend/FileContentIndex/818f9d06-3166-49d7-af27-566953c03dbe.vsidx
+LogicNexBackend/.vs/LogicNexBackend/FileContentIndex/ea1c354b-950a-4270-ba06-ba2adf8d8380.vsidx
+UI/yarn-debug.log*
+LoginNexBackend/LogicNexBackend/.vs
+LoginNexBackend/LogicNexBackend/LogicNexBackend/bin/
+LoginNexBackend/LogicNexBackend/LogicNexBackend/obj/
+LoginNexBackend/LogicNexBackend/JudgeSystem/obj/
+LoginNexBackend/LogicNexBackend/JudgeSystem/bin/
+LoginNexBackend/LogicNexBackend/LogicNexBackend/appsettings.json
+LoginNexBackend/LogicNexBackend/LogicNexBackend/SecretModels/SecretAuthModel.cs
+LogicNexBackend/LogicNexBackend/utils/EmailSender.cs
+LogicNexBackend/.vs/LogicNexBackend/FileContentIndex/467a2d7b-9e39-4bcf-a5d6-da56edc899ef.vsidx
+LogicNexBackend/.vs/LogicNexBackend/FileContentIndex/dbc5ae60-4d1f-4ad9-a603-8df888b6bdb0.vsidx

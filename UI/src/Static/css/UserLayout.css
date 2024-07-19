@@ -1,0 +1,37 @@
+.User-layout{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: -40px;
+}
+.User-layout-row{
+    display: flex;
+    list-style: none;
+    width: 100%;
+}
+.User-layout-row li span{
+    transition: 0.1s ease;
+}
+.User-layout-row li span:hover{
+    transform: scale(1.1);
+}
+.User-layout-row li{
+    padding: 10px;
+    flex: 1;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+.User-layout-row li:hover{
+    cursor: pointer;
+}
+.center_body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    border: 1px solid lightgray;
+}

@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\dbcontexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\dbcontexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|f:\\gp2 (3)\\gp2\\logicnexbackend\\judgesystem\\models\\consumerdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\models\\consumerdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\judgerfolder\\judger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\judgerfolder\\judger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\consumer\\judgeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\consumer\\judgeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\controllers\\poblemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\controllers\\poblemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\respositories\\problemsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\respositories\\problemsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\respositories\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\respositories\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\respositories\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\respositories\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\customprocess\\processasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\customprocess\\processasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\repositories\\problemsubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\repositories\\problemsubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0AF5DB-7983-4D50-B247-82AF14DF9E95}|SignalRService\\SignalRService.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\signalrservice\\backgroundservices\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0AF5DB-7983-4D50-B247-82AF14DF9E95}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\backgroundservices\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0AF5DB-7983-4D50-B247-82AF14DF9E95}|SignalRService\\SignalRService.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\signalrservice\\models\\submissionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0AF5DB-7983-4D50-B247-82AF14DF9E95}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\models\\submissionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\submissionandtestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\submissionandtestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\models\\problemsubmissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\models\\problemsubmissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\rabbitmqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\rabbitmqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\problemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\problemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\problemquary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\problemquary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0AF5DB-7983-4D50-B247-82AF14DF9E95}|SignalRService\\SignalRService.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\signalrservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0AF5DB-7983-4D50-B247-82AF14DF9E95}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\uploadsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\uploadsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\models\\messagesubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\models\\messagesubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\userclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\userclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\repositories\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\repositories\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\logicnexbackend\\models\\customcancelsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0D8A0D-74F8-4E34-8F38-59689B2A0337}|LogicNexBackend\\LogicNexBackend.csproj|solutionrelative:logicnexbackend\\models\\customcancelsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\models\\rabbitmqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\models\\rabbitmqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|F:\\gp2 (3)\\gp2\\LogicNexBackend\\judgesystem\\models\\testcasecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2590B6C-F395-4FD4-A845-3211456C6EA9}|JudgeSystem\\JudgeSystem.csproj|solutionrelative:judgesystem\\models\\testcasecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "utils.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\utils.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\utils.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\utils.cs",
+              "RelativeToolTip": "JudgeSystem\\utils.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:32:08.664Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsumerDefinition.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\ConsumerDefinition.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Models\\ConsumerDefinition.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\ConsumerDefinition.cs",
+              "RelativeToolTip": "JudgeSystem\\Models\\ConsumerDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:00:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProblemSubmission.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Respositories\\ProblemSubmission.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Respositories\\ProblemSubmission.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Respositories\\ProblemSubmission.cs",
+              "RelativeToolTip": "JudgeSystem\\Respositories\\ProblemSubmission.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:37:28.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Judger.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\JudgerFolder\\Judger.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\JudgerFolder\\Judger.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\JudgerFolder\\Judger.cs",
+              "RelativeToolTip": "JudgeSystem\\JudgerFolder\\Judger.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAEwJMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:40:13.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dbcontext.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Respositories\\Dbcontext.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Respositories\\Dbcontext.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Respositories\\Dbcontext.cs",
+              "RelativeToolTip": "JudgeSystem\\Respositories\\Dbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:18:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LogicNexBackend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAADgv0YAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:54:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PoblemsController.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Controllers\\PoblemsController.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Controllers\\PoblemsController.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Controllers\\PoblemsController.cs",
+              "RelativeToolTip": "LogicNexBackend\\Controllers\\PoblemsController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAEwF4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:08:06.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProblemSubmissionRepository.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Repositories\\ProblemSubmissionRepository.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Repositories\\ProblemSubmissionRepository.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Repositories\\ProblemSubmissionRepository.cs",
+              "RelativeToolTip": "LogicNexBackend\\Repositories\\ProblemSubmissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:35:11.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Program.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Program.cs",
+              "RelativeToolTip": "JudgeSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:15:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Dbcontexts\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Dbcontexts\\MongoDbContext.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Dbcontexts\\MongoDbContext.cs",
+              "RelativeToolTip": "LogicNexBackend\\Dbcontexts\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:11:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Testcases.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Respositories\\Testcases.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Respositories\\Testcases.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Respositories\\Testcases.cs",
+              "RelativeToolTip": "JudgeSystem\\Respositories\\Testcases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:44:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JudgeConsumer.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Consumer\\JudgeConsumer.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Consumer\\JudgeConsumer.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Consumer\\JudgeConsumer.cs",
+              "RelativeToolTip": "JudgeSystem\\Consumer\\JudgeConsumer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:38:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LogicNexBackend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T05:23:15.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProcessAsync.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\CustomProcess\\ProcessAsync.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\CustomProcess\\ProcessAsync.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\CustomProcess\\ProcessAsync.cs",
+              "RelativeToolTip": "JudgeSystem\\CustomProcess\\ProcessAsync.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAvwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:31:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "utils.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\utils\\utils.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\utils\\utils.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\utils\\utils.cs",
+              "RelativeToolTip": "LogicNexBackend\\utils\\utils.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:15:29.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Repositories\\TestRepository.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Repositories\\TestRepository.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Repositories\\TestRepository.cs",
+              "RelativeToolTip": "LogicNexBackend\\Repositories\\TestRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:35:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProblemSubmissionModel.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\ProblemSubmissionModel.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Models\\ProblemSubmissionModel.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\ProblemSubmissionModel.cs",
+              "RelativeToolTip": "JudgeSystem\\Models\\ProblemSubmissionModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:45:06.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\SignalRService\\BackgroundServices\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "SignalRService\\BackgroundServices\\RabbitMQService.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\SignalRService\\BackgroundServices\\RabbitMQService.cs",
+              "RelativeToolTip": "SignalRService\\BackgroundServices\\RabbitMQService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:31:26.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubmissionHub.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\SignalRService\\Models\\SubmissionHub.cs",
+              "RelativeDocumentMoniker": "SignalRService\\Models\\SubmissionHub.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\SignalRService\\Models\\SubmissionHub.cs",
+              "RelativeToolTip": "SignalRService\\Models\\SubmissionHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:02:18.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubmissionAndTestcases.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\SubmissionAndTestcases.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\SubmissionAndTestcases.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\SubmissionAndTestcases.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\SubmissionAndTestcases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:20:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RabbitMQmodel.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\RabbitMQmodel.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\RabbitMQmodel.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\RabbitMQmodel.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\RabbitMQmodel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:26:49.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProblemSet.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\ProblemSet.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\ProblemSet.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\ProblemSet.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\ProblemSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:15:47.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Program.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Program.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Program.cs",
+              "RelativeToolTip": "LogicNexBackend\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAEwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:02:08.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Controllers\\PlanController.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "LogicNexBackend\\Controllers\\PlanController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAASwC4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:59:06.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProblemQuary.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\ProblemQuary.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\ProblemQuary.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\ProblemQuary.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\ProblemQuary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:08:25.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\SignalRService\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRService\\Program.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\SignalRService\\Program.cs",
+              "RelativeToolTip": "SignalRService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:47:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UploadSubmission.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\UploadSubmission.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\UploadSubmission.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\UploadSubmission.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\UploadSubmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:17:35.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserClaims.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\UserClaims.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\UserClaims.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\UserClaims.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\UserClaims.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:15:46.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MessageSubmission.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\MessageSubmission.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Models\\MessageSubmission.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\MessageSubmission.cs",
+              "RelativeToolTip": "JudgeSystem\\Models\\MessageSubmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:58:46.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlanRepository.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Repositories\\PlanRepository.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Repositories\\PlanRepository.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Repositories\\PlanRepository.cs",
+              "RelativeToolTip": "LogicNexBackend\\Repositories\\PlanRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:37:15.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\Plan.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\Plan.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\Plan.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\Plan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:39:28.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomCancelSource.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\CustomCancelSource.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\CustomCancelSource.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\CustomCancelSource.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\CustomCancelSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:47:03.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Testcases.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\Testcases.cs",
+              "RelativeDocumentMoniker": "LogicNexBackend\\Models\\Testcases.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\LogicNexBackend\\Models\\Testcases.cs",
+              "RelativeToolTip": "LogicNexBackend\\Models\\Testcases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:36:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RabbitMQmodel.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\RabbitMQmodel.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Models\\RabbitMQmodel.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\RabbitMQmodel.cs",
+              "RelativeToolTip": "JudgeSystem\\Models\\RabbitMQmodel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:19:32.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "testcaseCollection.cs",
+              "DocumentMoniker": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\testcaseCollection.cs",
+              "RelativeDocumentMoniker": "JudgeSystem\\Models\\testcaseCollection.cs",
+              "ToolTip": "F:\\gp2 (3)\\gp2\\LogicNexBackend\\JudgeSystem\\Models\\testcaseCollection.cs",
+              "RelativeToolTip": "JudgeSystem\\Models\\testcaseCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:47:23.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
